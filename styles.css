@@ -1,0 +1,15 @@
+.vert-center-text {
+    position: absolute; 
+    top: 40%; 
+    left: 0;
+    text-align: center; 
+    width: 100%; 
+ }
+ 
+ .vert-center-text h1 { 
+     color: blueviolet;
+ }
+ 
+ .vert-center-container {
+   position: absolute;
+ }
