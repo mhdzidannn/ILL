@@ -1,0 +1,22 @@
+body{
+  background-color:white;
+  background-size: cover;
+  
+}
+
+.m{
+  font-family:arial;
+  font-size:28px;
+  color:pink;	
+  text-align:center;
+}
+
+
+.c1 {
+  background-color: white;
+  padding: 20px;
+  margin-top:auto;
+  height:280px;
+  background-size:cover;
+  position:static;
+}

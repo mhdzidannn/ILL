@@ -1,0 +1,68 @@
+.body{
+  background-color:white;
+  background-size: 100%;  
+}
+
+
+.m{
+  font-family:lucida console;
+  font-size:26px;
+  color:white;	
+  text-align:center;
+}
+
+.o{
+  font-family:arial;
+  font-size:30px;
+  color:red;	
+  text-align:center;
+  background-size:cover;
+}
+
+
+.button1{
+ background-color:gold;
+ border:5px;
+ color:white;
+ font-size:16px;
+ align:center;
+ 
+}
+
+.button1:hover{
+ background-color:red;
+ color:white;
+ 
+}
+
+.card2 {
+  background-color: white;
+  margin-top:auto;
+  height:280px;
+  background-image:url(https://www.adoptalovestory.com/wp-content/uploads/2016/09/family-on-couch-1024x685.jpg);
+  background-repeat:no-repeat;
+  background-size:100%;
+
+}
+
+.card3 {
+  background-color: white;
+  margin-top:auto;
+  height:280px;
+  background-image:url(http://apopka-1x1yusplq.stackpathdns.com/wp-content/uploads/2017/01/hugging-family.jpeg);
+  background-repeat:no-repeat;
+  background-size:100%;
+  position:static;
+}
+
+.card4 {
+  background-color: white;
+  margin-top:auto;
+  height:280px;
+  background-image:url(https://i.pinimg.com/originals/6f/ff/09/6fff09b7753f9073501c8ffc647b6a39.jpg);
+  background-repeat:no-repeat;
+  background-size:100%;
+  position:static;
+}
+
+

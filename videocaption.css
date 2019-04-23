@@ -1,0 +1,15 @@
+.vert-center-text {
+    position: absolute; 
+    top: 40%; 
+    left: 0;
+    text-align: center; 
+    width: 100%; 
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+
+
+.vert-center-container {
+   position: absolute;
+}

@@ -1,0 +1,80 @@
+body{
+  background-color:white;
+  background-size: cover;
+
+}
+
+
+.m{
+  font-family:lucida console;
+  font-size:40px;
+  color:white;	
+  text-align:center;
+  background-size:cover;
+}
+
+.n{
+  font-family:arial;
+  font-size:28px;
+  color:white;	
+  text-align:center;
+  background-size:cover;
+}
+
+.o{
+  font-family:arial;
+  font-size:30px;
+  color:red;	
+  text-align:center;
+  background-size:cover;
+}
+
+.desc{
+  font-family:arial;
+  font-size:19px;
+  color:black;	
+  text-align:center;
+  background-size:cover;
+}
+
+.card3{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  height:280px;
+  background-image:url(http://andrewscottlinder.com/wp-content/uploads/2018/03/family-hug-e1520705147699.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  position:static;
+  align:center;
+}
+
+.shortcard{
+  background-color: lightblue;
+  padding: 20px;
+  margin-top:20px;
+  height:210px;
+  background-size:cover;
+  position:static;
+  align:center;
+}
+
+.benefitcard{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  height:650px;
+  background-size:cover;
+  position:static;
+  align:center;
+
+}
+
+.tellself{
+  margin-top:140px;
+  background-size:cover;
+  position:static;
+  height:650px;
+  align:center;  
+}
+

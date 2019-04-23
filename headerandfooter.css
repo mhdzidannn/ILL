@@ -1,0 +1,51 @@
+        .body {
+            background-color: burlywood;
+            margin: 0px;
+            padding: 0px;
+    
+        }
+ 
+ /* top navbar */
+        .navbar {
+            overflow: hidden;
+            background-color: black;
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0%;
+            width: 100%;
+        }
+
+        .navbar a {
+            float: right;
+            display: block;
+            color: whitesmoke;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        /* ni untuk mouse */
+        .navbar a:hover {
+            background-color: silver;
+            color: black;
+        }
+
+        .footer {
+            position: static;
+            overflow: hidden;
+            background-color: black;
+            
+            width: 100%;
+            height: 15%;
+        }
+
+        .footer a {
+            float: right;
+            display: block;
+            color: whitesmoke;
+            text-align: center;
+            padding: 20px 20px;
+            bottom: 0%;
+        }
+
+
